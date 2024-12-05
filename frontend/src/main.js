@@ -1,7 +1,7 @@
 // src/main.js
 import { createApp } from 'vue'
 import App from './App.vue'
-import router from './router'
+import router from '../src/route/'
 import axios from 'axios'
 
 // Configure axios as a global property

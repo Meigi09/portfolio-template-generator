@@ -1,7 +1,6 @@
 package com.templates.backend;
 
-import com.portfoliogenerator.model.Portfolio;
-import com.portfoliogenerator.repository.PortfolioRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
